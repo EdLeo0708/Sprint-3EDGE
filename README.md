@@ -51,3 +51,6 @@
  • Abra o monitor serial para visualizar os dados de temperatura e umidade.
  
  • Conecte-se ao servidor MQTT para receber e publicar mensagens.
+
+
+Link wokwi: https://wokwi.com/projects/393804794889664513
