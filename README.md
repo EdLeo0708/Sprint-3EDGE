@@ -55,3 +55,9 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Link wokwi: https://wokwi.com/projects/393804794889664513
+
+
+Integrantes:
+Beatriz Silva Pinheiro Rocha; Carolina Cavalli Machado; Edson Leonardo; Eduardo Mazelli; Nathan da Silveira Uflacker
+
+
