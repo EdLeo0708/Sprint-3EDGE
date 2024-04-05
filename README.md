@@ -57,6 +57,9 @@
 Link wokwi: https://wokwi.com/projects/393804794889664513
 
 
+Link Video: https://youtu.be/p4NuN94xcfA
+
+
 Integrantes:
 
 
