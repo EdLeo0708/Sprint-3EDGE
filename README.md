@@ -58,6 +58,21 @@ Link wokwi: https://wokwi.com/projects/393804794889664513
 
 
 Integrantes:
-Beatriz Silva Pinheiro Rocha; Carolina Cavalli Machado; Edson Leonardo; Eduardo Mazelli; Nathan da Silveira Uflacker
+
+
+1. Eduardo Mazelli - 553236
+
+
+2. Nathan Uflacker - 552264
+
+
+3. Beatriz Silva – 5534552
+
+
+4. Carolina Machado – 5529253
+
+
+5. Edson Leonardo - 553737
+
 
 
